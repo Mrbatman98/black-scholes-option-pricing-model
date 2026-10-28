@@ -25,7 +25,7 @@ Put-call parity describes the relationship between European call and put prices 
 - Jupyter Notebook
 
 ## Project File
-`Black_Scholes_Final_Put_Call_Parity_.ipynb`
+`Black_Scholes_NIFTY.ipynb`
 
 ## Limitations
 The Black-Scholes model relies on simplifying assumptions. Actual market prices may differ because of transaction costs, changing volatility, dividends, liquidity, and other market factors.
